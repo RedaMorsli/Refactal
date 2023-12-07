@@ -1,3 +1,3 @@
 # Refactal : Programming serious game
 
-[Play it on your browser!](http://redamorsli.me/Refactal/)
+[Play it on your browser!](https://redamorsli.github.io/Refactal/)
